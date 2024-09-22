@@ -1,4 +1,4 @@
-# Azure and GCP: Netowrking, IPs and Domain Management
+# Azure and GCP: Networking, IPs and Domain Management
 
 ## ▶︎ _**Virtual Private Cloud**_
 
